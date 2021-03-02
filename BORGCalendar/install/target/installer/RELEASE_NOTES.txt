@@ -1,0 +1,15 @@
+==================================
+RELEASE NOTES for BORG 1.9
+==================================
+
+There are always new text strings that have not been translated. 
+Feel free to mail any translations to mike@mbcsoft.com.
+There is nobody on the project actively updating the translations. Any
+received translations will be posted as patches and then included in
+the next release.
+
+
+LICENSE
+-------
+BORG is open source under the GPL. A copy of the GPL is included with it.
+Source is available from: https://github.com/mikeberger/borg_calendar
